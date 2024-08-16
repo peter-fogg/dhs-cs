@@ -1,3 +1,3 @@
 # AP Computer Science A
 
-- [8/22/24](./8-22-24.html)
+- [8/22/24](./CSA/8-22-24.html)
