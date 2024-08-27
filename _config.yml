@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Parsons UI Example
-email: support@codio.com
+title: DHS Computer Science
+email: pfogg@durangoschools.org
 description: # >- # this means to ignore newlines until "baseurl:"
   Drag or shuffle the blocks of code in the practice problems below.
   Remember to indent where appropriate by dragging blocks to the right. <br/>
